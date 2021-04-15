@@ -1,0 +1,7 @@
+D:\Repositorio projetos GIT\Prova 1\Priova 1\Priova 1\bin\Debug\Priova 1.exe.config
+D:\Repositorio projetos GIT\Prova 1\Priova 1\Priova 1\bin\Debug\Priova 1.exe
+D:\Repositorio projetos GIT\Prova 1\Priova 1\Priova 1\bin\Debug\Priova 1.pdb
+D:\Repositorio projetos GIT\Prova 1\Priova 1\Priova 1\obj\Debug\Priova 1.csprojAssemblyReference.cache
+D:\Repositorio projetos GIT\Prova 1\Priova 1\Priova 1\obj\Debug\Priova 1.csproj.CoreCompileInputs.cache
+D:\Repositorio projetos GIT\Prova 1\Priova 1\Priova 1\obj\Debug\Priova 1.exe
+D:\Repositorio projetos GIT\Prova 1\Priova 1\Priova 1\obj\Debug\Priova 1.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Priova 1", "Priova 1\Priova 1.csproj", "{F6E887D8-E676-4042-B3CC-F902F6EDCC03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6E887D8-E676-4042-B3CC-F902F6EDCC03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6E887D8-E676-4042-B3CC-F902F6EDCC03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6E887D8-E676-4042-B3CC-F902F6EDCC03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6E887D8-E676-4042-B3CC-F902F6EDCC03}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6EAF76FC-BE0D-4DE5-BFF8-5FED3DC08A28}
+	EndGlobalSection
+EndGlobal
